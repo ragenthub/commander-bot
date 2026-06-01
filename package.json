@@ -1,0 +1,15 @@
+{
+  "name": "commander-bot",
+  "version": "1.0.0",
+  "description": "TAMM Commander Bot - Office/WFH reminders with webhook",
+  "main": "robin-webhook.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node robin-webhook.mjs",
+    "dev": "node robin-webhook.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
